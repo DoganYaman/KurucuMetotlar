@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.exe
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.deps.json
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.runtimeconfig.json
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.dll
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.pdb
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.AssemblyInfo.cs
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.dll
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\refint\kurucu-metotlar.dll
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.pdb
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.genruntimeconfig.cache
+D:\PatikaDev\Patika_Pratikler\kurucu-metotlar\obj\Debug\net5.0\ref\kurucu-metotlar.dll
